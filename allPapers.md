@@ -262,6 +262,12 @@ A Leap among Entanglement and Neural Networks: A Quantum Survey
 
 
 ### 2021
+<details><summary>[Amaro et al] <b><a href=https://arxiv.org/abs/2106.10055> Filtering variational quantum algorithms for combinatorial optimization. </a></b> <i>arXiv.</i>  </summary><pre><code>@article{amaro2021filtering,
+  title={Filtering variational quantum algorithms for combinatorial optimization},
+  author={David Amaro and Carlo Modica and Matthias Rosenkranz and Mattia Fiorentini and Marcello Benedetti and Michael Lubasch},
+  journal={arXiv preprint arXiv:2106.10055},
+  year={2021}
+}</code></pre></details>
 <details><summary>[Ban et al] <b><a href=https://www.Nature.com/articles/s41598-021-85208-3> Speeding up quantum perceptron via shortcuts to adiabaticity. </a></b> <i>Scientific reports.</i> <code><b>[Quantum Perceptron]</b></code> <code><b>[Quantum Machine Learning]</b></code> <code><i>(Adiabatic Model)</i></code></summary><pre><code>@Article{ban2021speeding,
   Title                    = {Speeding up quantum perceptron via shortcuts to adiabaticity},
   Author                   = {Ban, Yue and Chen, Xi and Torrontegui, E and Solano, Enrique and Casanova, Jorge},
@@ -274,6 +280,34 @@ A Leap among Entanglement and Neural Networks: A Quantum Survey
   URL                      = {https://www.Nature.com/articles/s41598-021-85208-3}
 }
 </code></pre></details>
+<details><summary>[Benedetti et al] <b><a href=https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033083> Hardware-efficient variational quantum algorithms for time evolution. </a></b> <i>Phys. Rev. Research.</i> <code><b>[Time Evolution (Hamiltonian Simulation)]</b></code> <code><b>[Parameterized Quantum Circuits]</b></code> <code><b>[Quantum Machine Learning]</b></code> </summary><pre><code>@article{PhysRevResearch.3.033083,
+  title = {Hardware-efficient variational quantum algorithms for time evolution},
+  author = {Benedetti, Marcello and Fiorentini, Mattia and Lubasch, Michael},
+  journal = {Phys. Rev. Research},
+  volume = {3},
+  issue = {3},
+  pages = {033083},
+  numpages = {15},
+  year = {2021},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevResearch.3.033083},
+  url = {https://link.aps.org/doi/10.1103/PhysRevResearch.3.033083}
+}</code></pre></details>
+<details><summary>[Benedetti et al] <b><a href=https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.044057/> Variational Inference with a Quantum Computer. </a></b> <i>Phys. Rev. Applied.</i> <code><b>[Variational Inference]</b></code> <code><b>[Parameterized Quantum Circuits]</b></code> <code><b>[Quantum Machine Learning]</b></code> </summary><pre><code>@article{PhysRevApplied.16.044057,
+  title={Variational Inference with a Quantum Computer},
+  author={Benedetti, Marcello and Coyle, Brian and Fiorentini, Mattia and Lubasch, Michael and Rosenkranz, Matthias},
+  journal={Phys. Rev. Applied},
+  volume = {16},
+  issue = {4},
+  pages = {044057},
+  numpages = {18},
+  year = {2021},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.16.044057},
+  url = {https://link.aps.org/doi/10.1103/PhysRevApplied.16.044057}
+}</code></pre></details>
 <details><summary>[Cerezo et al] <b><a href=https://www.nature.com/articles/s41467-021-21728-w> Cost Function Dependent Barren Plateaus in Shallow Parametrized Quantum Circuits. </a></b> <i>Nature communications.</i>  </summary><pre><code>@article{cerezo2021cost,
   title={Cost function dependent barren plateaus in shallow parametrized quantum circuits},
   author={Cerezo, Marco and Sone, Akira and Volkoff, Tyler and Cincio, Lukasz and Coles, Patrick J},
@@ -335,6 +369,12 @@ A Leap among Entanglement and Neural Networks: A Quantum Survey
   title={One qubit as a Universal Approximant},
   author={P{\'e}rez-Salinas, Adri{\'a}n and L{\'o}pez-N{\'u}{\~n}ez, David and Garc{\'\i}a-S{\'a}ez, Artur and Forn-D{\'\i}az, P and Latorre, Jos{\'e} I},
   journal={arXiv preprint arXiv:2102.04032},
+  year={2021}
+}</code></pre></details>
+<details><summary>[Plekhanov et al] <b><a href=https://arxiv.org/abs/2109.03687> Variational quantum amplitude estimation. </a></b> <i>arXiv.</i>  </summary><pre><code>@article{plekhanov2021variational,
+  title={Variational quantum amplitude estimation},
+  author={Kirill Plekhanov and Matthias Rosenkranz and Mattia Fiorentini and Michael Lubasch},
+  journal={arXiv preprint arXiv:2109.03687},
   year={2021}
 }</code></pre></details>
 <details><summary>[Schuld et al] <b><a href=https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032430> Effect of data encoding on the expressive power of variational quantum-machine-learning models. </a></b> <i>Physical Review A.</i> <code><b>[Parameterized Quantum Circuits]</b></code> <code><b>[Variational Quantum Algorithms]</b></code> <code><b>[Quantum Machine Learning]</b></code> </summary><pre><code>@article{schuld2021effect,
@@ -474,6 +514,20 @@ Current State of Play. </a></b> <i>Annual review of condensed matter physics.</i
   pages={044003},
   year={2020},
   publisher={IOP Publishing}
+}</code></pre></details>
+<details><summary>[Lubasch et al] <b><a href=https://journals.aps.org/pra/abstract/10.1103/PhysRevA.101.010301> Variational quantum algorithms for nonlinear problems. </a></b> <i>Phys. Rev. A Rapid Communication.</i> <code><b>[Nonlinear Problems]</b></code> <code><b>[Partial Differential Equations]</b></code> <code><b>[Quantum Neural Networks]</b></code> <code><b>[Quantum Machine Learning]</b></code> </summary><pre><code>@article{PhysRevA.101.010301,
+  title = {Variational quantum algorithms for nonlinear problems},
+  author = {Lubasch, Michael and Joo, Jaewoo and Moinier, Pierre and Kiffner, Martin and Jaksch, Dieter},
+  journal = {Phys. Rev. A},
+  volume = {101},
+  issue = {1},
+  pages = {010301},
+  numpages = {7},
+  year = {2020},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.101.010301},
+  url = {https://link.aps.org/doi/10.1103/PhysRevA.101.010301}
 }</code></pre></details>
 <details><summary>[Macaluso et al] <b><a href=https://link.springer.com/content/pdf/10.1007%2F978-3-030-50433-5_45.pdf> A Variational Algorithm for QuantumNeural Networks. </a></b> <i>International Conference on Computational Science.</i> <code><b>[Quantum Neural Networks]</b></code> <code><b>[Quantum Perceptron]</b></code> <code><b>[Quantum Machine Learning]</b></code> <code><i>(Gate Model)</i></code></summary><pre><code>@inproceedings{macaluso2020variational,
   title={A Variational Algorithm for Quantum Neural Networks},
