@@ -337,6 +337,12 @@ A Leap among Entanglement and Neural Networks: A Quantum Survey
   journal={arXiv preprint arXiv:2102.04032},
   year={2021}
 }</code></pre></details>
+<details><summary>[Plekhanov et al] <b><a href=https://arxiv.org/abs/2109.03687> Variational quantum amplitude estimation. </a></b> <i>arXiv.</i>  </summary><pre><code>@article{plekhanov2021variational,
+  title={Variational quantum amplitude estimation},
+  author={Kirill Plekhanov and Matthias Rosenkranz and Mattia Fiorentini and Michael Lubasch},
+  journal={arXiv preprint arXiv:2109.03687},
+  year={2021}
+}</code></pre></details>
 <details><summary>[Schuld et al] <b><a href=https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032430> Effect of data encoding on the expressive power of variational quantum-machine-learning models. </a></b> <i>Physical Review A.</i> <code><b>[Parameterized Quantum Circuits]</b></code> <code><b>[Variational Quantum Algorithms]</b></code> <code><b>[Quantum Machine Learning]</b></code> </summary><pre><code>@article{schuld2021effect,
   title={Effect of data encoding on the expressive power of variational quantum-machine-learning models},
   author={Schuld, Maria and Sweke, Ryan and Meyer, Johannes Jakob},
